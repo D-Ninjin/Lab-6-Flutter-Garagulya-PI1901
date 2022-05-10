@@ -9,9 +9,8 @@
 ![Да](https://i.pinimg.com/564x/d1/0c/92/d10c92afd05bec3d311acb07e12e01de.jpg)
 ### При нажатии на кнопку нет, значение передается на первый экран в виде всплывающего уведомления.
 ![Нет](https://i.pinimg.com/564x/06/bd/55/06bd552050cdfcfb42330522a3a4b077.jpg)
-
-![Main](https://github.com/D-Ninjin/Lab-6-Flutter-Garagulya-PI1901/blob/main/lib/main.dart)
-
+###Main.dart
+[![Main](https://i.pinimg.com/564x/f3/32/58/f33258c8a27ddf9a13375ca06bf86366.jpg)](https://github.com/D-Ninjin/Lab-6-Flutter-Garagulya-PI1901/blob/main/lib/main.dart)
 
 
 
