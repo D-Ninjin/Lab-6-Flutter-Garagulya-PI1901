@@ -1,4 +1,6 @@
-
+* linguist-vendored
+*.html linguist-vendored=false
+*.kotlin linguist-vendored=false
 android/* linguist-vendored
 ios/* linguist-vendored
 web/* linguist-vendored
