@@ -1,10 +1,5 @@
-android/* linguist-vendored
+
 * linguist-vendored
 *.html linguist-vendored=false
 *.cmake linguist-vendored=false
-ios/* linguist-vendored
-web/* linguist-vendored
-windows/* linguist-vendored
-analysis_options.yaml* linguist-vendored
-pubspec.lock* linguist-vendored
-pubspec.yaml* linguist-vendored
+
