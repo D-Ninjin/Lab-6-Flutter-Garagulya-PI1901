@@ -1,4 +1,6 @@
 android/* linguist-vendored
+* linguist-vendored
+*.html linguist-vendored=false
 ios/* linguist-vendored
 web/* linguist-vendored
 windows/* linguist-vendored
