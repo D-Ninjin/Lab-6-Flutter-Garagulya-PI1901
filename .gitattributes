@@ -1,2 +1,5 @@
-*.c++ linguist-detectable=false
-*.html linguist-detectable=false
+static/* linguist-vendored
+android/* linguist-vendored
+ios/* linguist-vendored
+web/* linguist-vendored
+windows/* linguist-vendored
