@@ -10,7 +10,7 @@
 ### При нажатии на кнопку нет, значение передается на первый экран в виде всплывающего уведомления.
 ![Нет](https://i.pinimg.com/564x/06/bd/55/06bd552050cdfcfb42330522a3a4b077.jpg)
 ### Main.dart
-[![Main](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png)](https://github.com/D-Ninjin/Lab-6-Flutter-Garagulya-PI1901/blob/main/lib/main.dart)
+[![Main](https://sun2-9.userapi.com/s/v1/ig2/P_snqlK4g8QhbcGsL182KqbXXDonCENNLj3Q8USfJfc24nAp_RACFMD8KLyYxz4riob-HijV-AXHs2luB8fs5eCd.jpg?size=250x250&quality=96&type=album)](https://github.com/D-Ninjin/Lab-6-Flutter-Garagulya-PI1901/blob/main/lib/main.dart)
 
 
 
